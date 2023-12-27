@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Suryawanshi</h1>
 <h3 align="center">🍑 "Coding is as sweet as a ripe peach—full of possibilities and bursting with flavor. Let's create something delicious together in the world of software engineering!" 🚀</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sansks7&label=Profile%20views&color=0e75b6&style=flat" alt="sansks7" /> </p>
+
 
 - 🌱 I’m currently learning **Reactjs,Nodejs**
 
